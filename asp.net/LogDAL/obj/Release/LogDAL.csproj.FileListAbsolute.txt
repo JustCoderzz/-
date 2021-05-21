@@ -1,0 +1,2 @@
+C:\Users\Lu  sir\source\repos\LogDAL\obj\Release\LogDAL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\LogDAL\obj\Release\LogDAL.csprojAssemblyReference.cache

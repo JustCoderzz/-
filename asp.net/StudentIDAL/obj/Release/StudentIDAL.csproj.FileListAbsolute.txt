@@ -1,0 +1,2 @@
+C:\Users\Lu  sir\source\repos\StudentIDAL\obj\Release\StudentIDAL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\StudentIDAL\obj\Release\StudentIDAL.csprojAssemblyReference.cache

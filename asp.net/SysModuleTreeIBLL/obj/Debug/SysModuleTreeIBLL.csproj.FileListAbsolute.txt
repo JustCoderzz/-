@@ -1,0 +1,12 @@
+C:\Users\Lu  sir\source\repos\SysModuleTreeIBLL\bin\Debug\SysModuleTreeIBLL.dll
+C:\Users\Lu  sir\source\repos\SysModuleTreeIBLL\bin\Debug\SysModuleTreeIBLL.pdb
+C:\Users\Lu  sir\source\repos\SysModuleTreeIBLL\bin\Debug\Models.dll
+C:\Users\Lu  sir\source\repos\SysModuleTreeIBLL\bin\Debug\EntityFramework.dll
+C:\Users\Lu  sir\source\repos\SysModuleTreeIBLL\bin\Debug\Models.pdb
+C:\Users\Lu  sir\source\repos\SysModuleTreeIBLL\bin\Debug\Models.dll.config
+C:\Users\Lu  sir\source\repos\SysModuleTreeIBLL\bin\Debug\EntityFramework.xml
+C:\Users\Lu  sir\source\repos\SysModuleTreeIBLL\obj\Debug\SysModuleTreeIBLL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\SysModuleTreeIBLL\obj\Debug\SysModuleTreeIBLL.csproj.CopyComplete
+C:\Users\Lu  sir\source\repos\SysModuleTreeIBLL\obj\Debug\SysModuleTreeIBLL.dll
+C:\Users\Lu  sir\source\repos\SysModuleTreeIBLL\obj\Debug\SysModuleTreeIBLL.pdb
+C:\Users\Lu  sir\source\repos\SysModuleTreeIBLL\obj\Debug\SysModuleTreeIBLL.csprojAssemblyReference.cache

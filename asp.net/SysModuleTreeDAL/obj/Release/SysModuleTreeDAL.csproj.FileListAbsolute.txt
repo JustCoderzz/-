@@ -1,0 +1,2 @@
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\obj\Release\SysModuleTreeDAL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\obj\Release\SysModuleTreeDAL.csprojAssemblyReference.cache

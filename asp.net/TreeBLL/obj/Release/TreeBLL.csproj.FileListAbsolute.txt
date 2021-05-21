@@ -1,0 +1,2 @@
+C:\Users\Lu  sir\source\repos\TreeBLL\obj\Release\TreeBLL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\TreeBLL\obj\Release\TreeBLL.csprojAssemblyReference.cache

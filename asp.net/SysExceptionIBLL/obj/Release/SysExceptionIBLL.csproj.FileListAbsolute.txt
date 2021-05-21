@@ -1,0 +1,2 @@
+C:\Users\Lu  sir\source\repos\SysExceptionIBLL\obj\Release\SysExceptionIBLL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\SysExceptionIBLL\obj\Release\SysExceptionIBLL.csprojAssemblyReference.cache

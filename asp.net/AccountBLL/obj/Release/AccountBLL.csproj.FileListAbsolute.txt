@@ -1,0 +1,1 @@
+C:\Users\Lu  sir\source\repos\AccountBLL\obj\Release\AccountBLL.csproj.CoreCompileInputs.cache

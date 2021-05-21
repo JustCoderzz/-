@@ -1,0 +1,12 @@
+C:\Users\Lu  sir\source\repos\IAccountBLL\bin\Debug\IAccountBLL.dll
+C:\Users\Lu  sir\source\repos\IAccountBLL\bin\Debug\IAccountBLL.pdb
+C:\Users\Lu  sir\source\repos\IAccountBLL\bin\Debug\Models.dll
+C:\Users\Lu  sir\source\repos\IAccountBLL\bin\Debug\EntityFramework.dll
+C:\Users\Lu  sir\source\repos\IAccountBLL\bin\Debug\Models.pdb
+C:\Users\Lu  sir\source\repos\IAccountBLL\bin\Debug\Models.dll.config
+C:\Users\Lu  sir\source\repos\IAccountBLL\bin\Debug\EntityFramework.xml
+C:\Users\Lu  sir\source\repos\IAccountBLL\obj\Debug\IAccountBLL.csprojAssemblyReference.cache
+C:\Users\Lu  sir\source\repos\IAccountBLL\obj\Debug\IAccountBLL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\IAccountBLL\obj\Debug\IAccountBLL.csproj.CopyComplete
+C:\Users\Lu  sir\source\repos\IAccountBLL\obj\Debug\IAccountBLL.dll
+C:\Users\Lu  sir\source\repos\IAccountBLL\obj\Debug\IAccountBLL.pdb

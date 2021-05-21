@@ -1,0 +1,2 @@
+C:\Users\Lu  sir\source\repos\ExceptionHander\obj\Release\ExceptionHander.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\ExceptionHander\obj\Release\ExceptionHander.csprojAssemblyReference.cache

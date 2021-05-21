@@ -1,0 +1,2 @@
+C:\Users\Lu  sir\source\repos\LogBLL\obj\Release\LogBLL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\LogBLL\obj\Release\LogBLL.csprojAssemblyReference.cache

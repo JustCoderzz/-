@@ -1,0 +1,2 @@
+C:\Users\Lu  sir\source\repos\TreeDAL\obj\Release\TreeDAL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\TreeDAL\obj\Release\TreeDAL.csprojAssemblyReference.cache

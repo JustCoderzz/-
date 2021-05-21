@@ -1,0 +1,12 @@
+C:\Users\Lu  sir\source\repos\IAccountDAL\bin\Debug\IAccountDAL.dll
+C:\Users\Lu  sir\source\repos\IAccountDAL\bin\Debug\IAccountDAL.pdb
+C:\Users\Lu  sir\source\repos\IAccountDAL\bin\Debug\Models.dll
+C:\Users\Lu  sir\source\repos\IAccountDAL\bin\Debug\EntityFramework.dll
+C:\Users\Lu  sir\source\repos\IAccountDAL\bin\Debug\Models.pdb
+C:\Users\Lu  sir\source\repos\IAccountDAL\bin\Debug\Models.dll.config
+C:\Users\Lu  sir\source\repos\IAccountDAL\bin\Debug\EntityFramework.xml
+C:\Users\Lu  sir\source\repos\IAccountDAL\obj\Debug\IAccountDAL.csprojAssemblyReference.cache
+C:\Users\Lu  sir\source\repos\IAccountDAL\obj\Debug\IAccountDAL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\IAccountDAL\obj\Debug\IAccountDAL.csproj.CopyComplete
+C:\Users\Lu  sir\source\repos\IAccountDAL\obj\Debug\IAccountDAL.dll
+C:\Users\Lu  sir\source\repos\IAccountDAL\obj\Debug\IAccountDAL.pdb

@@ -1,0 +1,17 @@
+C:\Users\Lu  sir\source\repos\AccountDAL\bin\Debug\AccountDAL.dll.config
+C:\Users\Lu  sir\source\repos\AccountDAL\bin\Debug\AccountDAL.dll
+C:\Users\Lu  sir\source\repos\AccountDAL\bin\Debug\AccountDAL.pdb
+C:\Users\Lu  sir\source\repos\AccountDAL\bin\Debug\EntityFramework.dll
+C:\Users\Lu  sir\source\repos\AccountDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lu  sir\source\repos\AccountDAL\bin\Debug\IAccountDAL.dll
+C:\Users\Lu  sir\source\repos\AccountDAL\bin\Debug\Models.dll
+C:\Users\Lu  sir\source\repos\AccountDAL\bin\Debug\IAccountDAL.pdb
+C:\Users\Lu  sir\source\repos\AccountDAL\bin\Debug\Models.pdb
+C:\Users\Lu  sir\source\repos\AccountDAL\bin\Debug\Models.dll.config
+C:\Users\Lu  sir\source\repos\AccountDAL\bin\Debug\EntityFramework.xml
+C:\Users\Lu  sir\source\repos\AccountDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lu  sir\source\repos\AccountDAL\obj\Debug\AccountDAL.csprojAssemblyReference.cache
+C:\Users\Lu  sir\source\repos\AccountDAL\obj\Debug\AccountDAL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\AccountDAL\obj\Debug\AccountDAL.csproj.CopyComplete
+C:\Users\Lu  sir\source\repos\AccountDAL\obj\Debug\AccountDAL.dll
+C:\Users\Lu  sir\source\repos\AccountDAL\obj\Debug\AccountDAL.pdb

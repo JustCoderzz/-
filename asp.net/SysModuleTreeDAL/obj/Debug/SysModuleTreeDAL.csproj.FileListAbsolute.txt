@@ -1,0 +1,17 @@
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\bin\Debug\SysModuleTreeDAL.dll.config
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\bin\Debug\SysModuleTreeDAL.dll
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\bin\Debug\SysModuleTreeDAL.pdb
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\bin\Debug\EntityFramework.dll
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\bin\Debug\Models.dll
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\bin\Debug\SysModuleTree.dll
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\bin\Debug\Models.pdb
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\bin\Debug\Models.dll.config
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\bin\Debug\SysModuleTree.pdb
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\bin\Debug\EntityFramework.xml
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\obj\Debug\SysModuleTreeDAL.csprojAssemblyReference.cache
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\obj\Debug\SysModuleTreeDAL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\obj\Debug\SysModuleTreeDAL.csproj.CopyComplete
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\obj\Debug\SysModuleTreeDAL.dll
+C:\Users\Lu  sir\source\repos\SysModuleTreeDAL\obj\Debug\SysModuleTreeDAL.pdb

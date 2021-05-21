@@ -1,0 +1,2 @@
+C:\Users\Lu  sir\source\repos\StudentBLL\obj\Release\StudentBLL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\StudentBLL\obj\Release\StudentBLL.csprojAssemblyReference.cache

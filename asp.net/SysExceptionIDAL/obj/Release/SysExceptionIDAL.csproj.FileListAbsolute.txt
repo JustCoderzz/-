@@ -1,0 +1,2 @@
+C:\Users\Lu  sir\source\repos\SysExceptionIDAL\obj\Release\SysExceptionIDAL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\SysExceptionIDAL\obj\Release\SysExceptionIDAL.csprojAssemblyReference.cache

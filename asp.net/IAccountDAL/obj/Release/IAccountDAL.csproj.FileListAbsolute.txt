@@ -1,0 +1,2 @@
+C:\Users\Lu  sir\source\repos\IAccountDAL\obj\Release\IAccountDAL.csproj.CoreCompileInputs.cache
+C:\Users\Lu  sir\source\repos\IAccountDAL\obj\Release\IAccountDAL.csprojAssemblyReference.cache
